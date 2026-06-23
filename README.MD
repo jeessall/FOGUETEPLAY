@@ -25,6 +25,8 @@ Controles
 
 COMO RODAR O PROJETO
 
+Repositorio https://github.com/jeessall/FOGUETEPLAY
+
 Instalar Python 3.11
 
 Baixe em:
